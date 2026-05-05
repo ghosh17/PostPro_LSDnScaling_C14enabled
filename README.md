@@ -2,3 +2,5 @@
 Post pro (Ott, 2022) adapted for LSDn scaling and enabled for C14
 
 Install LSDn matlab code in your ditrectory (Lifton, 2014)
+
+Use postburial_prod_LSD_14C.m as your main file
